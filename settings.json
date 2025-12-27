@@ -1,7 +1,16 @@
 // Zed settings
 {
-  
-  "disable_ai": true,
+  "features": {
+    "edit_prediction_provider": "copilot"
+  },
+  "agent": {
+    "default_model": {
+      "provider": "copilot_chat",
+      "model": "gpt-5-mini"
+    },
+    "model_parameters": []
+  },
+  "disable_ai": false,
   "tabs": {
     "file_icons": true
   },
@@ -15,7 +24,7 @@
     "enabled": true
   },
   "project_panel": {
-    "dock": "right",
+    "dock": "right"
   },
   "terminal": {
     "default_height": 220.0,
@@ -28,10 +37,10 @@
     "quick_actions": false,
     "selections_menu": true
   },
-  "ui_font_family": "Arial",
+  "ui_font_family": ".SystemUIFont",
   "buffer_line_height": "comfortable",
   "buffer_font_weight": 400.0,
-  "buffer_font_family": "Adwaita Sans",
+  "buffer_font_family": ".ZedMono",
   "icon_theme": "Catppuccin Mocha",
   "base_keymap": "VSCode",
   "sticky_scroll": {
@@ -47,7 +56,7 @@
   },
   "auto_indent_on_paste": true,
   "tab_size": 2,
-  "ui_font_size": 13,
+  "ui_font_size": 14.0,
   "buffer_font_size": 13.0,
   "theme": {
     "mode": "dark",
