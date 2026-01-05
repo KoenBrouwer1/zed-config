@@ -10,7 +10,7 @@
     },
     "model_parameters": []
   },
-  "disable_ai": false,
+  "disable_ai": true,
   "tabs": {
     "file_icons": true
   },
