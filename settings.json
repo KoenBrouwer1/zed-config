@@ -1,8 +1,5 @@
 // Zed settings
 {
-  "features": {
-    "edit_prediction_provider": "copilot"
-  },
   "agent": {
     "default_model": {
       "provider": "copilot_chat",
@@ -58,9 +55,5 @@
   "tab_size": 2,
   "ui_font_size": 14.0,
   "buffer_font_size": 13.0,
-  "theme": {
-    "mode": "dark",
-    "light": "Gruvbox Dark",
-    "dark": "One Dark Pro"
-  }
+  "theme":"One Dark Pro"
 }
