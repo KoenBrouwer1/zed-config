@@ -38,7 +38,8 @@
   "buffer_line_height": "comfortable",
   "buffer_font_weight": 400.0,
   "buffer_font_family": ".ZedMono",
-  "icon_theme": "Catppuccin Mocha",
+  // "icon_theme": "Catppuccin Mocha",
+  "icon_theme": "Material Icon Theme",
   "base_keymap": "VSCode",
   "sticky_scroll": {
     "enabled": false
@@ -55,5 +56,7 @@
   "tab_size": 2,
   "ui_font_size": 14.0,
   "buffer_font_size": 13.0,
-  "theme":"One Dark Pro"
+  "theme":"Nstlgy Dark",
+  //"theme":"One Dark Pro"
+  // "theme":"The Dark Side"
 }
