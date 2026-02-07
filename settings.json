@@ -3,36 +3,36 @@
   "agent": {
     "default_model": {
       "provider": "copilot_chat",
-      "model": "gpt-5-mini"
+      "model": "gpt-5-mini",
     },
-    "model_parameters": []
+    "model_parameters": [],
   },
   "disable_ai": true,
   "tabs": {
-    "file_icons": true
+    "file_icons": true,
   },
   "git": {
     "inline_blame": {
-      "enabled": false
-    }
+      "enabled": false,
+    },
   },
   "hover_popover_enabled": false,
   "drag_and_drop_selection": {
-    "enabled": true
+    "enabled": true,
   },
   "project_panel": {
-    "dock": "right"
+    "dock": "right",
   },
   "terminal": {
     "default_height": 220.0,
     "font_family": ".ZedMono",
     "font_size": 12.0,
-    "shell": "system"
+    "shell": "system",
   },
   "toolbar": {
     "breadcrumbs": false,
     "quick_actions": false,
-    "selections_menu": true
+    "selections_menu": true,
   },
   "ui_font_family": ".SystemUIFont",
   "buffer_line_height": "comfortable",
@@ -42,21 +42,20 @@
   "icon_theme": "Material Icon Theme",
   "base_keymap": "VSCode",
   "sticky_scroll": {
-    "enabled": false
+    "enabled": false,
   },
   "minimap": {
-    "show": "never"
+    "show": "never",
   },
   "autosave": {
     "after_delay": {
-      "milliseconds": 1000
-    }
+      "milliseconds": 1000,
+    },
   },
   "auto_indent_on_paste": true,
   "tab_size": 2,
   "ui_font_size": 14.0,
   "buffer_font_size": 13.0,
-  "theme":"Nstlgy Dark",
-  //"theme":"One Dark Pro"
-  // "theme":"The Dark Side"
+   "theme": "Nstlgy Dark",
+  // "theme":"One Dark Pro"
 }

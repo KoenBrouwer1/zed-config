@@ -8,11 +8,10 @@
     },
   },
   {
+    
     "context": "Editor",
     "bindings": {
-      "alt-up": "editor::MoveLineUp",
-      "alt-down": "editor::MoveLineDown",
-      "cmd-/": "editor::ToggleComments",
+      //
     },
   },
 ]
