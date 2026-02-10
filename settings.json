@@ -56,11 +56,14 @@
   "tab_size": 2,
   "ui_font_size": 14.0,
   "buffer_font_size": 13.0,
-   "theme": "Nstlgy Dark",
+  "theme": "Nstlgy Dark",
   // "theme":"One Dark Pro"
+  "vim_mode": false,
 
   "tab_bar": {
     "show": false,
   },
-  "vim_mode": false,
+  "scrollbar": {
+    "show": "never"
+  }
 }
