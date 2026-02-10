@@ -28,6 +28,7 @@
     "font_family": ".ZedMono",
     "font_size": 12.0,
     "shell": "system",
+    "button": false
   },
   "toolbar": {
     "breadcrumbs": false,
