@@ -45,7 +45,7 @@
     "enabled": false,
   },
   "minimap": {
-    "show": "never",
+    "show": "never"
   },
   "autosave": {
     "after_delay": {
@@ -58,4 +58,9 @@
   "buffer_font_size": 13.0,
    "theme": "Nstlgy Dark",
   // "theme":"One Dark Pro"
+
+  "tab_bar": {
+    "show": false,
+  },
+  "vim_mode": false,
 }
