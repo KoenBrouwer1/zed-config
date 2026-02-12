@@ -8,10 +8,9 @@
     },
   },
   {
-    
     "context": "Editor",
     "bindings": {
-      //
+      "ctrl-shift-f": "editor::Format",
     },
   },
 ]

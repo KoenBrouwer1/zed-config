@@ -58,9 +58,9 @@
   "ui_font_size": 14.0,
   "buffer_font_size": 13.0,
   "theme": "Nstlgy Dark",
-  // "theme":"One Dark Pro"
+  // "theme":"One Dark Pro",
+  // "theme": "Everforest Dark Hard",
   "vim_mode": false,
-
   "tab_bar": {
     "show": false,
   },
