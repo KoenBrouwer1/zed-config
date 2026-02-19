@@ -1,16 +1,6 @@
 // Zed settings
 {
-  "agent": {
-    "default_model": {
-      "provider": "copilot_chat",
-      "model": "gpt-5-mini",
-    },
-    "model_parameters": [],
-  },
   "disable_ai": true,
-  "tabs": {
-    "file_icons": true,
-  },
   "git": {
     "inline_blame": {
       "enabled": false,
@@ -24,11 +14,7 @@
     "dock": "right",
   },
   "terminal": {
-    "default_height": 220.0,
-    "font_family": ".ZedMono",
-    "font_size": 12.0,
-    "shell": "system",
-    "button": false
+    "button": false,
   },
   "toolbar": {
     "breadcrumbs": false,
@@ -46,7 +32,7 @@
     "enabled": false,
   },
   "minimap": {
-    "show": "never"
+    "show": "never",
   },
   "autosave": {
     "after_delay": {
@@ -59,12 +45,12 @@
   "buffer_font_size": 13.0,
   "theme": "Nstlgy Dark",
   // "theme":"One Dark Pro",
-  // "theme": "Everforest Dark Hard",
+  // "theme": "Everforest Dark Hard (blur)",
   "vim_mode": false,
   "tab_bar": {
     "show": false,
   },
   "scrollbar": {
-    "show": "never"
-  }
+    "show": "never",
+  },
 }
