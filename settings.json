@@ -23,9 +23,8 @@
   },
   "ui_font_family": ".SystemUIFont",
   "buffer_line_height": "comfortable",
-  "buffer_font_weight": 400.0,
-  "buffer_font_family": ".ZedMono",
-  // "icon_theme": "Catppuccin Mocha",
+  "buffer_font_weight": 500.0,
+    "buffer_font_family": "JetBrainsMono Nerd Font",
   "icon_theme": "Material Icon Theme",
   "base_keymap": "VSCode",
   "sticky_scroll": {
@@ -44,8 +43,6 @@
   "ui_font_size": 14.0,
   "buffer_font_size": 13.0,
   "theme": "Nstlgy Dark",
-  // "theme":"One Dark Pro",
-  // "theme": "Everforest Dark Hard (blur)",
   "vim_mode": false,
   "tab_bar": {
     "show": false,
@@ -53,4 +50,7 @@
   "scrollbar": {
     "show": "never",
   },
+  "file_types": {
+    "JSON": ["lock"]
+  }
 }
